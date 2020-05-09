@@ -3,7 +3,7 @@
 Special Topics: iOS Development Class at Claflin University
 
 ---
-### Features
+## Features
 - Create intentions
 - Manage intentions
 
