@@ -1,8 +1,8 @@
-# intentions_app
+# Intentions
 
 Special Topics: iOS Development Class at Claflin University
-## Everyday Psychology LLC
-### Intentions App
+
+### Features
 - Create intentions
 - Manage intentions
 
@@ -18,5 +18,5 @@ Special Topics: iOS Development Class at Claflin University
 2.  Open xcode
 
 ---
-## License & copyright under Everyday Psychology LLC and Contributors
-
+## License & copyright
+- Everyday Psychology LLC and Contributors
