@@ -1,11 +1,17 @@
 # Intentions
 
-Special Topics: iOS Development Class at Claflin University
+iOS Development Class at Claflin University + Everyday Psychology LLC
+
+### Team Name = iNTDev
+- Lower case iNT = short for intentions + iOS syntax
+- Dev = Development
 
 ---
 ## Features
-- Create intentions
-- Manage intentions
+- Create intention
+- Create note
+- View calendar
+- Go through different phases of intenion
 
 ---
 ## Contributors
