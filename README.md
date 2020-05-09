@@ -2,7 +2,8 @@
 
 iOS Development Class at Claflin University + Everyday Psychology LLC
 
-### Team Name = iNTDev
+---
+## Team Name = iNTDev
 - Lower case iNT = short for intentions + iOS syntax
 - Dev = Development
 
